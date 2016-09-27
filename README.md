@@ -8,7 +8,7 @@ Rendez-vous sur mon [Tumblr](http://johanjbj.tumblr.com/)
 
 **Couleur principale** : Bleu
 
-**Police** :Helvetica Neue
+**Police** : Helvetica Neue
 
 **Bannière** ![Festival](https://scontent-cdg2-1.xx.fbcdn.net/t31.0-8/12473570_1209602162388076_1490141591086443182_o.jpg "FCKNYE festival")
 
